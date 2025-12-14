@@ -1,4 +1,8 @@
 ---
+colorSchema: dark
+---
+
+---
 src: src/01.cover.md
 ---
 
