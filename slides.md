@@ -103,5 +103,21 @@ src: src/14-01-misconfig.md
 ---
 
 ---
-src: src/14-02-misconfig.md
+src: src/15-01-ImproperInvent.md
+---
+
+---
+src: src/16-01-API-Consumption.md
+---
+
+---
+src: src/17-cover.md
+---
+
+---
+src: src/18-summary.md
+---
+
+---
+src: src/19-the-end.md
 ---
