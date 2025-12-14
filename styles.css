@@ -25,6 +25,7 @@
   --slidev-theme-background: #ffffff;
   --slidev-font-serif: 'FWD', serif;
   --slidev-font-sans: 'FWD', sans-serif;
+  color-scheme: dark;
 }
 
 .slidev-layout {
