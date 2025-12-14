@@ -1,50 +1,107 @@
 ---
-theme: seriph
-author: Your Name Here
-
+src: src/01.cover.md
 ---
 
-# OWASP  
-Modern Application Security  
-_FWD Theme Version_
-
 ---
-class: fwd-logo
+src: src/02.context.md
 ---
 
-## What is OWASP?
-
-- Open Web Application Security Project  
-- Global non-profit  
-- Provides standards & guidelines  
-- Home of OWASP Top 10  
-
+---
+src: src/03-OWASP.md
 ---
 
-## Why is OWASP Important?
-
-- Helps prevent critical vulnerabilities  
-- Reduces security risks  
-- Provides best practices  
-- Standard adopted globally  
-
+---
+src: src/04.md
 ---
 
-## OWASP Top 10 (2021)
-
-1. Broken Access Control  
-2. Cryptographic Failures  
-3. Injection  
-4. Insecure Design  
-5. Security Misconfiguration  
-6. Vulnerable Components  
-7. Identification & Authentication Failures  
-8. Software Integrity Failures  
-9. Logging & Monitoring Failures  
-10. Server-Side Request Forgery (SSRF)  
-
+---
+src: src/05-01-BOLA.md
 ---
 
-# Summary  
-OWASP = Modern Security Foundation  
-FWD Theme by Slidev + Seriph  
+---
+src: src/05-02-BOLA.md
+---
+
+---
+src: src/05-03-BOLA.md
+---
+
+---
+src: src/06-01-BrokenAuthen.md
+---
+
+---
+src: src/06-02-BrokenAuthen.md
+---
+
+---
+src: src/06-03-BrokenAuthen.md
+---
+
+---
+src: src/07-01-BOPLA.md
+---
+
+---
+src: src/07-02-BOPLA.md
+---
+
+---
+src: src/07-03-BOPLA.md
+---
+
+---
+src: src/08-01-ResourceConsumption.md
+---
+
+---
+src: src/08-02-ResourceConsumption.md
+---
+
+---
+src: src/08-03-ResourceConsumption.md
+---
+
+---
+src: src/08-04-ResourceConsumption.md
+---
+
+---
+src: src/09-cover.md
+---
+
+---
+src: src/10-01-BFLA.md
+---
+
+---
+src: src/10-02-BFLA.md
+---
+
+---
+src: src/11-01-UnrestrictAccess.md
+---
+
+---
+src: src/11-02-UnrestrictAccess.md
+---
+
+---
+src: src/12-compare-05-06.md
+---
+
+---
+src: src/13-01-SSRF.md
+---
+
+---
+src: src/13-02-SSRF.md
+---
+
+---
+src: src/14-01-misconfig.md
+---
+
+---
+src: src/14-02-misconfig.md
+---
