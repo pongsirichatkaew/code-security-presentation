@@ -41,7 +41,3 @@ app.post('/login', async (req, res) => {
 });
 ```
 ````
-
-<div v-click class="absolute bottom-6 left-8 text-sm opacity-50">
-OWASP API Security Top 10 (2023) — Broken Authentication
-</div>

@@ -44,6 +44,10 @@ src: src/06-03-BrokenAuthen.md
 ---
 
 ---
+src: src/06-04-BrokenAuthen.md
+---
+
+---
 src: src/07-01-BOPLA.md
 ---
 
@@ -53,6 +57,10 @@ src: src/07-02-BOPLA.md
 
 ---
 src: src/07-03-BOPLA.md
+---
+
+---
+src: src/07-04-BOPLA.md
 ---
 
 ---
@@ -72,6 +80,10 @@ src: src/08-04-ResourceConsumption.md
 ---
 
 ---
+src: src/08-05-ResourceConsumption.md
+---
+
+---
 src: src/09-cover.md
 ---
 
@@ -84,11 +96,20 @@ src: src/10-02-BFLA.md
 ---
 
 ---
+src: src/10-03-BFLA.md
+---
+
+
+---
 src: src/11-01-UnrestrictAccess.md
 ---
 
 ---
 src: src/11-02-UnrestrictAccess.md
+---
+
+---
+src: src/11-03-UnrestrictAccess.md
 ---
 
 ---
@@ -108,12 +129,26 @@ src: src/14-01-misconfig.md
 ---
 
 ---
+src: src/14-02-misconfig.md
+---
+
+---
 src: src/15-01-ImproperInvent.md
 ---
 
 ---
+src: src/15-02-ImproperInvent.md
+---
+
+
+---
 src: src/16-01-API-Consumption.md
 ---
+
+---
+src: src/16-02-API-Consumption.md
+---
+
 
 ---
 src: src/17-cover.md
